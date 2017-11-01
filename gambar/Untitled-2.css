@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+input#nama {
+	width: 200px;
+	margin-left: -270px;
+	margin-top: 140px;
+	position: absolute;
+}
+
+input#email {
+	width: 200px;
+	margin-left: -270px;
+	margin-top: 180px;
+	position: absolute;
+}
+
+input#submit {
+	font-size: 0;
+	width: 180px;
+	height: 35px;
+	background: url(submitform.png);
+	background-repeat: no-repeat;
+	margin-left: -260px;
+	margin-top: 220px;
+	position: absolute;
+	border: none;
+}
